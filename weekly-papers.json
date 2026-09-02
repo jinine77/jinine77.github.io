@@ -10,7 +10,8 @@
       "journal": "Journal of Hydrology",
       "topic": "极端暴雨",
       "year": 2025,
-      "summary": "基于贵州 16 个监测站 2006–2022 年 1718 个径流小区年数据，量化极端降雨（P>57.05 mm 或 I30>41.89 mm/h）对喀斯特坡地径流与侵蚀的放大效应：径流放大 2.35–4.83 倍、土壤侵蚀放大 4.12–21.07 倍，占各用地类型总侵蚀的 40.14–74.20%，并给出裸地、耕地、植被地的临界坡度阈值。",
+      "abstractEn": "Based on annual data from 1718 runoff plots across 16 monitoring stations in Guizhou (2006-2022), this study quantifies the amplification of extreme rainfall (P>57.05 mm or I30>41.89 mm/h) on runoff and erosion of karst slopes: runoff is amplified 2.35-4.83 times and soil erosion 4.12-21.07 times, accounting for 40.14-74.20% of total erosion across land-use types, and provides critical slope-gradient thresholds for bare land, cropland and vegetated areas.",
+      "abstractZh": "基于贵州 16 个监测站 2006-2022 年 1718 个径流小区年数据，量化极端降雨（P>57.05 mm 或 I30>41.89 mm/h）对喀斯特坡地径流与侵蚀的放大效应：径流放大 2.35-4.83 倍、土壤侵蚀放大 4.12-21.07 倍，占各用地类型总侵蚀的 40.14-74.20%，并给出裸地、耕地、植被地的临界坡度阈值。",
       "value": "极端暴雨是水土流失的核心驱动，量化阈值可直接服务于水土保持措施布设与喀斯特区石漠化治理。",
       "link": "https://doi.org/10.1016/j.jhydrol.2025.133273",
       "doi": "10.1016/j.jhydrol.2025.133273"
@@ -22,7 +23,8 @@
       "journal": "Journal of Hydrology",
       "topic": "水土保持",
       "year": 2025,
-      "summary": "采用文献计量分析系统揭示降雨量是产流（贡献 58.70%）与产沙（30.25%）最高贡献因子；降雨量增加从三方面加剧水土流失：增大坡面径流与侵蚀总量、提高土壤侵蚀敏感性、降低植被水土保持有效性；森林为最有效植被措施，盖度 40%–60% 时水土流失显著降低。",
+      "abstractEn": "Using bibliometric analysis, this study reveals that rainfall amount is the highest-contributing factor to runoff (58.70%) and sediment yield (30.25%). Increased rainfall intensifies soil and water loss in three ways: enlarging slope runoff and erosion totals, raising soil erosion sensitivity, and reducing the effectiveness of vegetation for soil conservation. Forest is the most effective vegetation measure, with significantly lower erosion at 40-60% canopy cover.",
+      "abstractZh": "采用文献计量分析系统揭示降雨量是产流（贡献 58.70%）与产沙（30.25%）最高贡献因子；降雨量增加从三方面加剧水土流失：增大坡面径流与侵蚀总量、提高土壤侵蚀敏感性、降低植被水土保持有效性；森林为最有效植被措施，盖度 40%-60% 时水土流失显著降低。",
       "value": "厘清降雨—植被—侵蚀耦合机制，为气候背景下区域水土保持措施布局与水保备考提供量化依据。",
       "link": "https://doi.org/10.1016/j.jhydrol.2025.134219",
       "doi": "10.1016/j.jhydrol.2025.134219"
@@ -34,7 +36,8 @@
       "journal": "CATENA",
       "topic": "流域治理",
       "year": 2025,
-      "summary": "以三峡库区东里河为对象，构建景观组成—格局—气候—地形径流响应归因框架，发现 2000–2020 年景观格局对不同时段径流累计贡献达 42.89%–52.44%，超过气候与地形因子；但随林草退化其调控能力减弱 5.38%–8.64%，提示未来生态修复应更重视景观格局配置。",
+      "abstractEn": "Focusing on the Dongli River basin in the Three Gorges Reservoir area, a landscape composition-pattern-climate-topography runoff-response attribution framework shows that landscape pattern contributed 42.89-52.44% to runoff in different periods from 2000-2020, exceeding climate and topography; however, its regulatory capacity declined 5.38-8.64% as forest-grass cover degraded, suggesting future ecological restoration should prioritize landscape-pattern configuration.",
+      "abstractZh": "以三峡库区东里河为对象，构建景观组成—格局—气候—地形径流响应归因框架，发现 2000-2020 年景观格局对不同时段径流累计贡献达 42.89%-52.44%，超过气候与地形因子；但随林草退化其调控能力减弱 5.38%-8.64%，提示未来生态修复应更重视景观格局配置。",
       "value": "揭示景观格局对径流的非线性调控，为生态脆弱流域水土保持与生态修复提供科学基础。",
       "link": "https://doi.org/10.1016/j.catena.2025.108716",
       "doi": "10.1016/j.catena.2025.108716"
@@ -46,7 +49,8 @@
       "journal": "中国水土保持科学",
       "topic": "水土保持",
       "year": 2025,
-      "summary": "针对黄土高原典型流域水沙灾害，概化极端暴雨下水平梯田边坡的损毁形状并分析其侵蚀特征，为梯田等工程措施在极端暴雨条件下的稳定性评价与防护设计提供依据，对梯田布设与暴雨期防灾具有直接参考价值。",
+      "abstractZh": "针对黄土高原典型流域水沙灾害，概化极端暴雨下水平梯田边坡的损毁形状并分析其侵蚀特征，为梯田等工程措施在极端暴雨条件下的稳定性评价与防护设计提供依据，对梯田布设与暴雨期防灾具有直接参考价值。",
+      "abstractEn": "For typical watershed water-sediment disasters on the Loess Plateau, this study generalizes the damage shape of horizontal terrace slopes under extreme rainstorms and analyzes their erosion characteristics, providing a basis for stability evaluation and protection design of engineering measures (e.g., terraces) under extreme-rainstorm conditions, with direct reference value for terrace layout and rainstorm-period disaster prevention.",
       "value": "紧扣水土保持工程实践，可直接支撑梯田规划与极端暴雨期灾害防御设计。",
       "link": "https://www.sswcc.com.cn/article/doi/10.16843/j.sswc.2024188",
       "doi": "10.16843/j.sswc.2024188"
@@ -58,7 +62,8 @@
       "journal": "水土保持学报",
       "topic": "极端暴雨",
       "year": 2025,
-      "summary": "基于湘江流域资料分析极端降水的时空变化及其对输沙量的影响，揭示气候变化背景下极端降水增强对流域水沙过程的驱动机制，为流域水土保持与水库、淤地坝等水利工程的调度管理提供参考。",
+      "abstractZh": "基于湘江流域资料分析极端降水的时空变化及其对输沙量的影响，揭示气候变化背景下极端降水增强对流域水沙过程的驱动机制，为流域水土保持与水库、淤地坝等水利工程的调度管理提供参考。",
+      "abstractEn": "Based on data from the Xiangjiang River basin, this study analyzes the spatiotemporal variation of extreme precipitation and its impact on sediment discharge, revealing the driving mechanism by which intensified extreme precipitation under climate change affects basin water-sediment processes, and provides a reference for soil and water conservation and the operation management of water-conservancy projects such as reservoirs and check dams.",
       "value": "关联极端暴雨与输沙过程，服务于流域水土保持与水利水电工程实务。",
       "link": "https://www.stbcxb.com.cn/en/article/doi/10.13870/j.cnki.stbcxb.2025.02.022",
       "doi": "10.13870/j.cnki.stbcxb.2025.02.022"
