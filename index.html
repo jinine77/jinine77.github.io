@@ -21,10 +21,36 @@
     <link rel="apple-touch-startup-image" href="./apple-splash-750-1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" />
     <link rel="apple-touch-startup-image" href="./apple-splash-1242-2208.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" />
     <title>Jininestar | 个人大脑与生活管理工作台</title>
-    <script type="module" crossorigin src="./assets/index-B7rKmwyx.js"></script>
+    <style>
+      /* 自绘启动屏覆盖层：1s 后由 main.jsx 触发淡出（与 iOS 系统启动屏 apple-splash-* 同步） */
+      #__splash__ {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        background: #FBF8F3;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 1;
+        transition: opacity 0.4s ease;
+        pointer-events: none;
+      }
+      #__splash__.is-fading { opacity: 0; }
+      #__splash__ img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+           object-fit: cover;
+        display: block;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-Iz5scrlR.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-ClsYnGyh.css">
   </head>
   <body>
+    <div id="__splash__" aria-hidden="true">
+      <img src="./splash.png" alt="Jininestar" decoding="async">
+    </div>
     <div id="root"></div>
   </body>
 </html>
