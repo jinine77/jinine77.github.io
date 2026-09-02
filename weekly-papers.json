@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-02",
+  "week": "2026-W36",
+  "generatedBy": "WorkBuddy Automation (seed)",
+  "papers": [
+    {
+      "id": "p1",
+      "title": "Assessing the impact of extreme rainfall and slope surface conditions on runoff and erosion based on a big database in Southwest China's karst region",
+      "type": "SCI一区",
+      "journal": "Journal of Hydrology",
+      "topic": "极端暴雨",
+      "year": 2025,
+      "summary": "基于贵州 16 个监测站 2006–2022 年 1718 个径流小区年数据，量化极端降雨（P>57.05 mm 或 I30>41.89 mm/h）对喀斯特坡地径流与侵蚀的放大效应：径流放大 2.35–4.83 倍、土壤侵蚀放大 4.12–21.07 倍，占各用地类型总侵蚀的 40.14–74.20%，并给出裸地、耕地、植被地的临界坡度阈值。",
+      "value": "极端暴雨是水土流失的核心驱动，量化阈值可直接服务于水土保持措施布设与喀斯特区石漠化治理。",
+      "link": "https://doi.org/10.1016/j.jhydrol.2025.133273",
+      "doi": "10.1016/j.jhydrol.2025.133273"
+    },
+    {
+      "id": "p2",
+      "title": "Rainfall amount shapes the soil erosion and vegetation protection effectiveness in soil conservation",
+      "type": "SCI一区",
+      "journal": "Journal of Hydrology",
+      "topic": "水土保持",
+      "year": 2025,
+      "summary": "采用文献计量分析系统揭示降雨量是产流（贡献 58.70%）与产沙（30.25%）最高贡献因子；降雨量增加从三方面加剧水土流失：增大坡面径流与侵蚀总量、提高土壤侵蚀敏感性、降低植被水土保持有效性；森林为最有效植被措施，盖度 40%–60% 时水土流失显著降低。",
+      "value": "厘清降雨—植被—侵蚀耦合机制，为气候背景下区域水土保持措施布局与水保备考提供量化依据。",
+      "link": "https://doi.org/10.1016/j.jhydrol.2025.134219",
+      "doi": "10.1016/j.jhydrol.2025.134219"
+    },
+    {
+      "id": "p3",
+      "title": "Runoff responses to landscape pattern changes and their quantitative attributions across different time scales in ecologically fragile basins",
+      "type": "SCI一区",
+      "journal": "CATENA",
+      "topic": "流域治理",
+      "year": 2025,
+      "summary": "以三峡库区东里河为对象，构建景观组成—格局—气候—地形径流响应归因框架，发现 2000–2020 年景观格局对不同时段径流累计贡献达 42.89%–52.44%，超过气候与地形因子；但随林草退化其调控能力减弱 5.38%–8.64%，提示未来生态修复应更重视景观格局配置。",
+      "value": "揭示景观格局对径流的非线性调控，为生态脆弱流域水土保持与生态修复提供科学基础。",
+      "link": "https://doi.org/10.1016/j.catena.2025.108716",
+      "doi": "10.1016/j.catena.2025.108716"
+    },
+    {
+      "id": "p4",
+      "title": "极端暴雨下水平梯田边坡损毁形状概化及侵蚀特征",
+      "type": "EI",
+      "journal": "中国水土保持科学",
+      "topic": "水土保持",
+      "year": 2025,
+      "summary": "针对黄土高原典型流域水沙灾害，概化极端暴雨下水平梯田边坡的损毁形状并分析其侵蚀特征，为梯田等工程措施在极端暴雨条件下的稳定性评价与防护设计提供依据，对梯田布设与暴雨期防灾具有直接参考价值。",
+      "value": "紧扣水土保持工程实践，可直接支撑梯田规划与极端暴雨期灾害防御设计。",
+      "link": "https://www.sswcc.com.cn/article/doi/10.16843/j.sswc.2024188",
+      "doi": "10.16843/j.sswc.2024188"
+    },
+    {
+      "id": "p5",
+      "title": "湘江流域极端降水变化及其对输沙量影响",
+      "type": "EI",
+      "journal": "水土保持学报",
+      "topic": "极端暴雨",
+      "year": 2025,
+      "summary": "基于湘江流域资料分析极端降水的时空变化及其对输沙量的影响，揭示气候变化背景下极端降水增强对流域水沙过程的驱动机制，为流域水土保持与水库、淤地坝等水利工程的调度管理提供参考。",
+      "value": "关联极端暴雨与输沙过程，服务于流域水土保持与水利水电工程实务。",
+      "link": "https://www.stbcxb.com.cn/en/article/doi/10.13870/j.cnki.stbcxb.2025.02.022",
+      "doi": "10.13870/j.cnki.stbcxb.2025.02.022"
+    }
+  ]
+}
