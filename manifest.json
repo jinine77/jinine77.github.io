@@ -1,0 +1,55 @@
+{
+  "name": "Jininestar",
+  "short_name": "Jininestar",
+  "description": "个人大脑与生活管理工作台",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FBF8F3",
+  "theme_color": "#FBF8F3",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": ["productivity", "lifestyle", "personalization"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "个人管理",
+      "short_name": "个人管理",
+      "description": "查看今日计划与生活管理",
+      "url": "./#/personal",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "自我提升",
+      "short_name": "自我提升",
+      "description": "阅读、语言、科研与新闻",
+      "url": "./#/growth",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "精神落地",
+      "short_name": "精神落地",
+      "description": "博主养成、富姐养成与思考粉碎",
+      "url": "./#/spiritual",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
