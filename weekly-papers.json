@@ -1,72 +1,72 @@
 {
-  "date": "2026-09-07",
-  "week": "2026-W37",
+  "date": "2026-09-14",
+  "week": "2026-W38",
   "generatedBy": "WorkBuddy Automation",
   "papers": [
     {
       "id": "p1",
-      "title": "Satellite-based monitoring and hazard assessment of multiple flooding types in the Haihe river Basin induced by the July 2023 extreme rainstorm",
+      "title": "The impact of complex terrain on urban flood resilience under extreme rainfall events",
       "type": "SCI一区",
       "journal": "Journal of Hydrology",
       "topic": "极端暴雨",
       "year": 2025,
-      "abstractEn": "Under global climate change, extreme rainstorms are increasingly frequent, and a single storm in complex terrain often triggers flash floods, river floods, and waterlogging simultaneously. Most studies treat these floods uniformly with one data source. Focusing on the July 2023 extreme rainstorm in the Haihe River Basin, this study built a framework using multi-source satellite data to monitor different flood types and analyze their driving factors and hazards. In plains, Sentinel-1 and GF-3 SAR extracted inundation of river floods and waterlogging; in mountains, flash-flood areas were identified by combining Sentinel-2 NDVI changes with terrain and hydrological analysis. Random forest models compared driving factors and assessed hazards. Results show mountain flash floods concentrate in low-lying valleys with slope contributing 24.33%, while plains waterlogging differs markedly between urban and rural areas, dominated by distance to rivers (27.88%) and maximum daily rainfall (13.84%). A flood hazard map was produced, revealing the heterogeneity of flooding from a single extreme rainstorm.",
-      "abstractZh": "极端暴雨频发，复杂地形一场暴雨常引发山洪、河洪与内涝。本文以2023年7月海河流域极端暴雨为对象，用多源卫星遥感区分洪涝类型并分析驱动因子。山区山洪集中于低洼河谷（坡度贡献24.33%）；平原城乡内涝差异显著，距河距离（27.88%）与最大日降雨量（13.84%）为主导。据此生成危险分布图，为防洪管理提供新思路。",
-      "value": "以海河流域23·7极端暴雨为案例，多源遥感区分山洪、内涝与河洪，对流域防洪减灾与水利备考极具参考价值。",
-      "link": "https://doi.org/10.1016/j.jhydrol.2025.134243",
-      "doi": "10.1016/j.jhydrol.2025.134243"
+      "abstractEn": "In the context of climate change, extreme rainfall events make urban flooding a global challenge. This study builds a hydrodynamic model of urban flooding under extreme rainfall to investigate runoff characteristics affected by building layouts and the mechanisms of flow resistance in complex terrain. Within a resilience assessment framework using real-time simulation data and terrain indices, factor analysis optimizes the framework and derives a formula for flood resilience. Results show flooded areas concentrate in zones with irregular building layouts and high density, and the impact of extreme rainfall is amplified there. As the irregularity coefficient deviates from 1, building water-resistance grows, with maximum ponding depth rising up to 20%. A steeper slope raises maximum ponding depth by 10%-30% but reduces flooded area. The resilience and severity maps support proactive urban flood planning.",
+      "abstractZh": "在全球气候变化背景下，极端降雨使城市洪涝成为全球性挑战。本研究构建极端降雨下城市洪涝水动力模型，探究建筑布局影响的径流特征与复杂地形水流阻力机制，并基于实时模拟数据与地形指标，用因子分析优化韧性评估框架、推导洪涝韧性公式。结果表明，淹没区集中于建筑布局不规则、密度高的区域，极端降雨影响被放大；不规则系数偏离1越远，建筑阻水效应越强，最大积水深度增幅达20%；坡度增大会使最大积水深度上升10%-30%，但缩小淹没范围。相关分布图可为城市防洪规划提供前瞻建议。",
+      "value": "揭示复杂地形下极端降雨洪涝机理与韧性评估，对城市防洪规划与水利防灾备考有直接参考价值。",
+      "link": "https://doi.org/10.1016/j.jhydrol.2024.132597",
+      "doi": "10.1016/j.jhydrol.2024.132597"
     },
     {
       "id": "p2",
-      "title": "Variations in erosive rainfall threshold and sediment production between karst and non-karst slopes",
+      "title": "Response of soil detachment and erodibility to perennial fibrous-rooted vegetation coverage (Stipa bungeana) on the Loess Plateau",
       "type": "SCI一区",
       "journal": "CATENA",
       "topic": "水土保持",
       "year": 2025,
-      "abstractEn": "Soil erosion on karst slopes exhibits a dual mechanism of surface erosion and underground leakage, producing erosive rainfall thresholds and sediment yields distinct from those on non-karst slopes. Neglecting this difference hampers soil erosion control and the assessment of desertification control benefits. To reveal these contrasts, this study monitored continuous rainfall-runoff-sediment events over eight years (2014-2021) on karst and non-karst plots at two soil and water conservation stations in Guizhou, China. Results show karst erosive rainfall is mainly short-duration and high-intensity, with long low-intensity rain contributing little. The karst erosive threshold ranges 35.4-45.6 mm (I30 31.2-36.2 mm/h), significantly higher than the non-karst range of 11.8-18.8 mm (I30 10.07-13.1 mm/h; P < 0.01). Soil and water conservation measures notably raised the threshold. Sediment yield on non-karst slopes was about 42 times that on karst slopes, and erosion related more closely to I30 on karst but to rainfall duration on non-karst slopes.",
-      "abstractZh": "喀斯特坡面侵蚀兼具地表与地下漏失双重机制，其侵蚀性降雨阈值与产沙量异于非喀斯特。基于贵州两水保站8年观测：喀斯特侵蚀性降雨以短历时高强度为主，阈值35.4-45.6 mm，显著高于非喀斯特11.8-18.8 mm（P<0.01）；非喀斯特产沙量约为喀斯特42倍，且喀斯特侵蚀更依赖雨强I30、非喀斯特更依赖降雨历时。",
-      "value": "对比喀斯特与非喀斯特坡面侵蚀性降雨阈值与产沙差异，对西南石漠化区水保措施配置与减沙效益评估有直接指导。",
-      "link": "https://doi.org/10.1016/j.catena.2025.108820",
-      "doi": "10.1016/j.catena.2025.108820"
+      "abstractEn": "Revegetation is widely applied for soil and water conservation, yet how vegetation coverage regulates soil detachment (Dr) and erodibility (kr) remains unclear. This study examined five coverage levels (0%, 15-25%, 35-45%, 55-65%, 75-85%) of Stipa bungeana, a perennial fibrous-rooted grass, across three sites on the Loess Plateau. Results show increasing coverage reduced soil bulk density while improving organic matter and root traits. Structural equation modeling revealed Dr, kr, and critical shear stress (tc) were governed by synergistic interactions of roots and soil, with restoration acting mainly through root properties. kr was more affected by soil properties (path -0.53) than roots (-0.45), whereas tc depended mainly on roots. Vegetation restoration reduced Dr under varying flow intensities, and root influence on Dr grew with flow (R2=0.87, P<0.05). Equal-coverage site variation highlights the need to consider local edaphic factors when optimizing revegetation.",
+      "abstractZh": "植被恢复广泛用于水土保持，但植被盖度如何调控土壤分离能力（Dr）与可蚀性（kr）尚不清楚。本研究在黄土高原3个样点设针茅5个盖度梯度（0%-85%）。结果显示盖度增加降低容重、改善有机质与根系；结构方程表明Dr、kr与临界剪应力受根系-土壤协同调控，恢复主要经根系起作用。kr受土壤影响（路径-0.53）大于根系（-0.45），tc主要依赖根系；植被恢复降低不同水流强度下Dr，根系影响随流速增强（R2=0.87，P<0.05）。同等盖度下站点差异提示优化恢复须考虑局地土壤因素。",
+      "value": "黄土高原针茅植被盖度对土壤可蚀性的定量调控，直接服务于水土保持植被恢复措施设计与备考。",
+      "link": "https://doi.org/10.1016/j.catena.2025.109043",
+      "doi": "10.1016/j.catena.2025.109043"
     },
     {
       "id": "p3",
-      "title": "Landslide predictions through combined rainfall threshold models",
+      "title": "Debris flow forecasting: disastrous rainfall threshold matters",
       "type": "SCI一区",
       "journal": "Landslides",
-      "topic": "滑坡",
+      "topic": "泥石流",
       "year": 2025,
-      "abstractEn": "Rainfall thresholds, defined as minimum rainfall amounts whose exceedance can trigger landslides, are widely used to predict landslide occurrence and form a core component of early warning systems. Although extensively studied, little attention has been paid to comparing the mathematical methods used to define such thresholds as lower bounds of empirical rainfall-landslide conditions, or to combining multiple available thresholds. This study tests and compares four methods - frequentist least squares, frequentist quantile regression, Bayesian quantile regression, and machine-learning symbolic regression - to define event cumulated-rainfall versus rainfall-duration (ED) thresholds from 2259 measurements (duration D in hours, cumulated rainfall E in mm) that triggered mostly shallow landslides in Italy between 2002 and 2012. The methods are compared at non-exceedance probabilities p = 0.01, 0.05, 0.10. A voting strategy is then proposed to combine the individual predictions into a single dichotomous, non-probabilistic landslide forecast applied to the dataset, clarifying how threshold definition and combination affect prediction reliability.",
-      "abstractZh": "降雨阈值是可触发滑坡的最小降雨量，是预警核心。本文以意大利2002-2012年2259组致灾降雨，对比频率最小二乘、分位数回归、贝叶斯分位数回归与符号回归四种方法定义ED阈值，并在p=0.01、0.05、0.10下比较；提出投票策略合成单一二值滑坡预报，厘清阈值定义与组合对预测可靠性的影响。",
-      "value": "系统比较降雨阈值定义方法与组合投票策略，可提升降雨型滑坡预警可靠性，对山区水保与滑坡灾害防御备考具重要意义。",
-      "link": "https://doi.org/10.1007/s10346-024-02340-7",
-      "doi": "10.1007/s10346-024-02340-7"
+      "abstractEn": "Rainfall thresholds for debris flow initiation are a common global forecasting index. However, many catchments have mitigation measures such as drainage channels and check dams, so debris flow occurrence does not necessarily cause damage, and using initiation thresholds may yield high false-alarm rates. To address this, we defined a disastrous rainfall threshold beyond which debris flows may overflow drainage channels and harm residents in a typical Chinese catchment. Using the SynxFlow model integrating rainfall-runoff-debris flow dynamics, we simulated overflow under varied rainfall intensities and durations and fitted a disastrous I-D threshold: I = 8.7D^-1.26 + 30.4. The disastrous threshold needs much higher intensity than the initiation threshold; for 1-h rainfall it is 39.1 mm/h versus 11.9 mm/h. Uniform rainfall yields a higher threshold than delayed, advanced, or intermediate patterns. Distinguishing disastrous from initiation thresholds improves debris flow forecasting and early warning accuracy.",
+      "abstractZh": "泥石流启动降雨阈值是常用预报指标，但沟谷有排水渠、拦砂坝等减灾措施时，泥石流发生未必致灾，套用启动阈值易误报。研究在中国典型泥石流沟定义灾难性降雨阈值（漫溢排水渠并危害居民）。用耦合降雨-径流-泥石流过程的SynxFlow模型模拟多情景降雨漫流，拟合出灾难性I-D阈值 I=8.7D^-1.26+30.4。其所需强度远高于启动阈值（1小时降雨下39.1 vs 11.9 mm/h）；均匀降雨阈值高于滞后、提前及中间型。区分两类阈值可提升泥石流预报与预警精度。",
+      "value": "提出灾难性降雨阈值概念，区分致灾与启动，对泥石流预警减灾工程设计与水利备考有实用价值。",
+      "link": "https://doi.org/10.1007/s10346-025-02492-0",
+      "doi": "10.1007/s10346-025-02492-0"
     },
     {
       "id": "p4",
-      "title": "基于地理过程的土壤侵蚀分区模型构建与应用",
+      "title": "秦巴山区山坡地表产流阈值多因子协同机理",
       "type": "EI",
       "journal": "农业工程学报",
-      "topic": "土壤侵蚀",
-      "year": 2025,
-      "abstractEn": "Soil erosion regionalization is vital for guiding erosion control, yet traditional single-time-slice methods fail to reveal evolutionary processes. To improve accuracy, this study constructs a geographical-process-based soil erosion regionalization model (GPR-SE) that captures process similarity and heterogeneity: a convolutional autoencoder extracts spatial features and a long short-term memory network captures temporal features, which are fused into spatiotemporal features; silhouette and Davies-Bouldin indices select the best clustering method among K-means, fuzzy C-means, and self-organizing feature maps. Applying the model to Hailun City in the typical black soil region of Northeast China and using random forest to identify dominant factors, results show K-means is optimal at five clusters; precipitation (25.08%) and temperature (21.65%) are the dominant differentiating factors, followed by landform and erosion modulus; the study area is divided into four erosion-type zones, offering a reliable approach for targeted erosion control.",
-      "abstractZh": "土壤侵蚀分区对治理重要，但传统单时间截面分区难揭示演化过程。本文构建地理过程分区模型：卷积自编码器与长短期记忆网络分别提取空间与时序特征；轮廓系数与戴维森堡丁指数优选聚类方法。以东北黑土区海伦市为例分区，随机森林识别主导因子，聚类数5时K-means最优，降水（25.08%）与温度（21.65%）为分异主导因子。",
-      "value": "构建地理过程驱动的土壤侵蚀分区模型（GPR-SE），面向东北黑土区，为侵蚀精准治理与水土保持规划提供新方法。",
-      "link": "https://doi.org/10.11975/j.issn.1002-6819.202501043",
-      "doi": "10.11975/j.issn.1002-6819.202501043"
+      "topic": "山洪灾害",
+      "year": 2026,
+      "abstractEn": "Hillslope is the basic unit of hydrological response in mountainous small watersheds; revealing the nonlinear threshold characteristics of runoff generation is essential for understanding storm flood mechanisms and improving flash flood early warning. Taking a typical flash-flood-prone small watershed in the Qinba Mountains, this study combined indoor simulated rainfall with field runoff plots to investigate the synergistic control of rainfall intensity, slope gradient, soil thickness and its distribution pattern, and initial soil moisture on surface runoff initiation time. A theoretical model for runoff initiation time was built and a CR+ASM integrated threshold index was proposed. Results show rainfall intensity is the dominant factor and thick soil delays initiation by 35%-50% versus thin soil. The model achieved R2=0.91-0.92 and NSE=0.89-0.92 in laboratory validation, while the CR+ASM index reached R2=0.99 and NSE=0.99. The findings provide a theoretical basis for storm flood simulation and flash flood early warning in mountainous watersheds.",
+      "abstractZh": "山坡坡面是山区小流域水文响应基本单元，揭示产流非线性阈值特征对理解暴雨洪水机理与提升山洪预警意义重大。研究以秦巴山区典型山洪易发小流域为对象，通过室内模拟降雨与野外径流小区观测，探究雨强、坡度、土层厚度及分布、初始含水率对地表产流时间的协同控制机理，构建产流时间理论模型并提出CR+ASM综合阈值指标。结果表明雨强为主导因子，厚土层产流时间较薄土层延长35%-50%；模型室内验证R2=0.91-0.92、NSE=0.89-0.92，基于CR+ASM指标精度达R2=0.99、NSE=0.99，可为山区小流域暴雨洪水模拟与山洪预警提供理论依据。",
+      "value": "揭示山坡产流多因子非线性阈值，构建CR+ASM指标，对山区小流域山洪预警与水利防灾备考有直接指导意义。",
+      "link": "https://doi.org/10.11975/j.issn.1002-6819.202601090",
+      "doi": "10.11975/j.issn.1002-6819.202601090"
     },
     {
       "id": "p5",
-      "title": "基于无人机调查的黑土区浅沟侵蚀对降雨变化的响应及预测模型",
+      "title": "自然降雨特征和作物覆盖对三峡库区紫色土坡耕地产流产沙影响",
       "type": "EI",
       "journal": "农业工程学报",
-      "topic": "遥感监测",
+      "topic": "水土流失",
       "year": 2025,
-      "abstractEn": "Ephemeral gullies are small channels formed by surface runoff that reappear at the same location after tillage; they are a leading erosion type threatening productivity in the black soil region of Northeast China. To reveal their interannual variation, UAV surveys were conducted over two consecutive years (late June-July 2022 and early June 2023) along transects in the Nenjiang-Binxian area, producing high-resolution models (about 3.8 cm). Among 66 units, those with gullies accounted for 75.78% (2022) and 74.24% (2023); in 2023 linear, areal, and volumetric densities dropped 31.67%, 36.72%, and 40.78% due to lower rainfall. A total of 366 gullies were mapped, with 2023 numbers at 70.23% of 2022 and average length, area, and volume at 83.94%, 76.45%, and 71.94%. Gully reformation depended on catchment area and runoff (P < 0.05). Using 73 gullies, power-law models linking length, area, and volume to average slope and runoff were built, supporting regional gully prediction and control.",
-      "abstractZh": "浅沟是东北黑土区主要侵蚀类型之一，由地表径流冲刷形成。嫩江-宾县两年无人机调查显示：66单元浅沟2022、2023年占75.78%、74.24%；2023年浅沟长、密度降31.67%、36.72%；累计366条，2023年仅2022年70%。浅沟再现主因是集水面积与径流量差异（P<0.05），据此建幂函数模型供防治。",
-      "value": "基于无人机遥感量化黑土区浅沟侵蚀年际变化并建预测模型，是水土流失遥感监测与侵蚀预报备考的优良范例。",
-      "link": "https://doi.org/10.11975/j.issn.1002-6819.202502113",
-      "doi": "10.11975/j.issn.1002-6819.202502113"
+      "abstractEn": "To address erosion on purple soil sloping farmland in the Three Gorges Reservoir area, this study used 108 natural rainfall events and runoff-sediment data from 2021-2023 across six standard runoff plots in the Fugou catchment, Chongqing, with K-means clustering and Pearson correlation. Results show rainfall was classified into three types: A (long duration, high amount), B (moderate), and C (short duration, high intensity). Type C dominated erosive rainfall, with critical rainfall amount, intensity, and maximum 30-min intensity of 6-21 mm, 1.1-3.6, and 1.2-7.6 mm/h, respectively. Sediment yield under type C reached 1.06-20.18 times that of types A and B. Compared with bare slopes, crop coverage reduced runoff and sediment by 61.67% and 77.15%, and a critical slope of 15°-25° was identified. The findings inform comprehensive soil erosion control on sloping farmland.",
+      "abstractZh": "为探索三峡库区紫色土坡耕地侵蚀效应，基于重庆万州6个标准径流小区2021-2023年108场自然降雨与产流产沙数据，用聚类与相关分析研究降雨特征及坡面产流产沙响应。结果表明：降雨可分A（长历时大雨量）、B（中）、C（短历时高强度）三型，C型为侵蚀性降雨主型，其临界降雨量、雨强、最大30 min雨强分别为6-21 mm、1.1-3.6、1.2-7.6 mm/h；C型产沙量为A、B型的1.06-20.18倍；作物覆盖较裸坡产流、产沙分别减少61.67%、77.15%，坡面存在15°-25°临界坡度。结论可为坡耕地水土流失综合治理提供参考。",
+      "value": "量化紫色土坡耕地不同雨型产流产沙与作物覆盖减蚀效应，对坡耕地水土流失治理与备考有参考价值。",
+      "link": "https://doi.org/10.11975/j.issn.1002-6819.202407186",
+      "doi": "10.11975/j.issn.1002-6819.202407186"
     }
   ]
 }
